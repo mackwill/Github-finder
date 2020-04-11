@@ -1,10 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 
 
 const Search = ({ searchUsers, showClear, clearUsers, setAlert }) => {
     
-    const [text, setText] = React.useState('')
+    const [text, setText] = useState('')
 
     
 
