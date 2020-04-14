@@ -1,6 +1,5 @@
 {
   "name": "github-finder",
-  "homepage": "https://github.com/mackwill/github-finder.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
